@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&labelColor=FF0000&logo=instagram&logoColor=white&link=https://www.instagram.com/luiz_sonego_yavorski/)](https://www.instagram.com/luiz_sonego_yavorski/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizsonegoyavorski/)](https://www.linkedin.com/in/luizsonegoyavorski)
