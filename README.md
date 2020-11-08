@@ -1,19 +1,19 @@
-### Hi there 👋
+### Hi, I'm Luiz Sonego Yavorski, a brasilian developer.
 
-<!--
-**luizsonego/luizsonego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Founder of 500 milha racing
 
-Here are some ideas to get you started:
+- `.html`,`.css`,`.js`,`.ts`,`.php`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Frontend lover.
+
+- Technology lover
+
+currently living in Maringá Paraná.
+
+
+## Developing technology to make the world easier
+
+
 
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-AE44A0?style=flat-square&labelColor=AE44A0&logo=instagram&logoColor=white&link=https://www.instagram.com/luiz_sonego_yavorski/)](https://www.instagram.com/luiz_sonego_yavorski/)
