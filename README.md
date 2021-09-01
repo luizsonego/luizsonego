@@ -1,9 +1,9 @@
 [![Envoy_'s GitHub Banner](banner.jpg)](https://500milhas.com)
 
-### Hi, I'm Luiz Sonego Yavorski, a brasilian developer.
+## Hi, I'm Luiz Sonego Yavorski, a brasilian developer.
 
 
-## Developing technology to make the world easier
+### Developing technology to make the world easier
 
 
  ##
