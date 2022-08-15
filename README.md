@@ -36,3 +36,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsonego&layout=compact)](https://github.com/luizsonego/github-readme-stats)
 
+
+![snake gif](https://github.com/luizsonego/luizsonego/blob/output/github-contribution-grid-snake.svg)
