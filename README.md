@@ -26,9 +26,9 @@
 ##
  
 
-### - Founder of [ 500 Milhas](https://500milhas.com)
+### - Founder of [ 500 Milhas](https://500milhas.com.br)
 
-![Website Stats](https://img.shields.io/website-up-down-green-red/http/500milhas.com)
+![Website Stats](https://img.shields.io/website-up-down-green-red/https/500milhas.com.br)
   
   <a href="https://www.instagram.com/500.milhas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
