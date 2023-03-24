@@ -1,4 +1,5 @@
-[![Envoy_'s GitHub Banner](banner.jpg)](https://500milhas.com)
+![3e4eedf6-5c3d-49ba-92f9-35bf6183c995](https://user-images.githubusercontent.com/6979367/227533340-8b27cf03-aee6-480f-aeff-c7773bad97f5.jpg)
+
 
 ## Hi, I'm Luiz Sonego Yavorski, a brasilian developer.
 
