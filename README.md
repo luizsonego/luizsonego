@@ -1,4 +1,4 @@
-![pixel-style-eu-sou-um-astronauta-em-uma-misso-especial-e-estou-programando-em-um-notebook-enquanto-69357561](https://github.com/luizsonego/luizsonego/assets/6979367/17a03a9b-f2a2-4cb4-be56-7478c3f6428a)
+<img src="https://github.com/luizsonego/luizsonego/assets/6979367/17a03a9b-f2a2-4cb4-be56-7478c3f6428a" alt="Luiz SOnego" width="100%"/>
 
 
 ## Hi, I'm Luiz Sonego Yavorski, a brasilian developer.
