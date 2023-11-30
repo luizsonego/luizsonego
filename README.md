@@ -26,7 +26,7 @@ Mesmo que de vez em quando uso um Windows para programar.
 
 🕹️ Diversão:
 
-Quando não estou mergulhado em código, estou acelerando nas pistas do Forza Horizon e travando batalhas intensas no mundo de Mobile Legends. Quem precisa de campo e raquete quando se pode conquistar vitórias virtuais? 🎮
+Quando não estou mergulhado em código, estou acelerando nas pistas do Forza Horizon e travando batalhas intensas no mundo de Moba. Quem precisa de campo e raquete quando se pode conquistar vitórias virtuais? 🎮
 
 
 
