@@ -89,11 +89,3 @@ Em nome do loop infinito, da recursão sagrada e do código limpo, amém. 🖥�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizsonego&layout=compact)](https://github.com/luizsonego/github-readme-stats)
 
-
-![snake gif](https://github.com/luizsonego/luizsonego/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/luizsonego/luizsonego/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/luizsonego/RTX-Operacoes/blob/output/github-contribution-grid-snake.svg)
-
---
-
-![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
