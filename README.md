@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/luizsonego/luizsonego/refs/heads/master/picture.png" alt="Luiz SOnego" width="100%"/>
 
-https://raw.githubusercontent.com/luizsonego/luizsonego/refs/heads/master/picture.png
-
 
 ## Hi, I'm Luiz Sonego Yavorski, a brasilian developer.
 
